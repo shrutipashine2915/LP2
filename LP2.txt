@@ -1,3 +1,28 @@
+#DFS-27
+#A*algorith-72
+##Greedy Search
+#Selection Sort-187
+#DJkshtra-204
+#Minimal spanning tree-290
+#job scheduling-317
+#Krushals-382
+#Graph color-499
+#Nqueen-526
+#ChatBOt-636
+#expertsystem-656
+
+#xor-767
+#Transposition Technique-812
+#AES-916
+#DES-1014
+#RSA-1268
+
+
+
+
+
+
+
 #DFS and BFS
 
 n=5
